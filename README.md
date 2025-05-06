@@ -10,7 +10,7 @@ Over the past four years, my academic and extracurricular journey in computer sc
 ---
 
 ## 🎶 Solfege Hand Sign Interpreter  
-**GitHub:** [Solfege Hand Sign Interpreter](https://github.com/georges-macheta)
+**GitHub:** [Solfege Hand Sign Interpreter](https://github.com/georges-macheta/solfege-hand-interpreter)
 
 This project was created for DIMA 259 – Creative Coding and bridges art, education, and real-time technology. The system uses p5.js and ml5.js to detect solfege hand signs via webcam and plays corresponding musical notes using the Web Audio API. It was inspired by my experience with music theory and a desire to make musical instruction more accessible to students with limited resources.
 
@@ -19,7 +19,7 @@ By tracking hand gestures and mapping them to pitch, the tool creates a fully in
 ---
 
 ## 📱 D3Lite – CruzHacks 2024  
-**GitHub:** [D3Lite App](https://github.com/georges-macheta/d3lite_app)
+**GitHub:** [D3Lite App](https://github.com/georges-macheta/d3lite)
 
 D3Lite was developed during the CruzHacks 2024 Hackathon at UC Santa Cruz. It is a Flutter-based mobile app designed to make goal-setting and self-improvement more structured for Gen Z users. Built entirely over one weekend with my team, the app features journal-based check-ins, streak tracking, and customizable “modes” for mindfulness, productivity, or fitness.
 
