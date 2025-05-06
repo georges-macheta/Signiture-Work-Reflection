@@ -69,6 +69,6 @@ I am grateful to the University of St. Thomas and the faculty who challenged me 
 
 ## 🔗 Project Links (with README.md)
 
-- [Solfege Hand Sign Interpreter](https://github.com/georges-macheta/solfege-interpreter)
-- [D3Lite Flutter App](https://github.com/georges-macheta/d3lite_app)
+- [Solfege Hand Sign Interpreter](https://github.com/georges-macheta/solfege-hand-interpreter)
+- [D3Lite Flutter App](https://github.com/georges-macheta/d3lite)
 - [LectureLounge Flask Web App](https://github.com/georges-macheta/LectureLounge)
